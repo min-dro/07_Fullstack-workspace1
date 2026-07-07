@@ -1,0 +1,4 @@
+spring.application.name=Backend_Project
+
+# contextPath 와 port 번호 지정
+server.servlet.context-path=/backend
